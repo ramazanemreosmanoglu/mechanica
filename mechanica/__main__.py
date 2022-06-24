@@ -1,0 +1,2 @@
+import mechanicalkeyboard
+mechanicalkeyboard.run()

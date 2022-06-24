@@ -1,0 +1,12 @@
+{
+    "press": {
+        "a": "key.wav",
+        "b": "key.wav",
+        "c": "key.wav",
+        "d": "key.wav",
+        "_DEFAULT": "key.wav"
+    },
+    "release": {
+        
+    }
+}
